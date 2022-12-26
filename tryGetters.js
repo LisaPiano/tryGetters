@@ -19,3 +19,4 @@ const Jewels = new Pet('cat', 'tuxedo', '10', 'small', 'meow');
 console.log(Jewels);
 console.log(Jewels.breed);
 console.log(Jewels.mood);
+console.log(Jewels["size"]);
